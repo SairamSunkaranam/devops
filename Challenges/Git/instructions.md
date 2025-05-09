@@ -48,6 +48,13 @@ Commands/Resources:
 
         #If you have installed the Git credential manager, it will popup an window to enter your user name and password of Git Account. 
 
+
+After push, your repo should look like this:
+
+![image](https://github.com/user-attachments/assets/1a7e84ce-18bd-4d5d-b3a6-b0b3423f8e23)
+
+
+
     
 
 
